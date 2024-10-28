@@ -6,17 +6,18 @@
   基于 Vite 栈的前端工程化实践
 </p>
 <p align="center">
-<img src="https://img.shields.io/github/license/Nagnahs-1/Web-SSY-UI-VITE?color=red">
+<img src="https://img.shields.io/github/license/Nagnahs-1/Web-SSY-UI-VITE?color=red"/>
 </p>
 
 ## Features
 - 基于 Vue 框架
--支持 JSX与 Vue 单文件组件
--Jest + Vue3 plugins实现单元测试
--Eslint + Prettier + Husky 语法检查
--采用 Rollup 构建
--Vitepress + Vercel 文档网站搭建
--基于Action CI 实现持续集成与交付
+- 支持 JSX与 Vue 单文件组件
+- Jest + Vue3 plugins实现单元测试
+- Eslint + Prettier + Husky 语法检查
+- 采用 Rollup 构建
+- Vitepress + Vercel 文档网站搭建
+- 基于Action CI 实现持续集成与交付
+
 ## Install
 
 ```bash
