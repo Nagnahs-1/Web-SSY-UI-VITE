@@ -7,6 +7,8 @@
 </p>
 <p align="center">
 <img src="https://img.shields.io/github/license/Nagnahs-1/Web-SSY-UI-VITE?color=red"/>
+<img src="https://img.shields.io/npm/v/ssy-ui-vite?color=red" />
+<img src="https://img.shields.io/npm/dm/ssy-ui-vite?color=red" />
 </p>
 
 ## Features
