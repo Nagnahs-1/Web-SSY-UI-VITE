@@ -22,9 +22,9 @@
     "dist"
   ],
   "scripts": {
-    "3": "eslint . --fix",
     "test": "vitest",
     "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
     "prepare": "husky",
     "dev": "vite",
     "docs:build": "vitepress build docs",
@@ -43,19 +43,21 @@
   "dependencies": {
     "@antfu/eslint-config": "^3.8.0",
     "@unocss/eslint-plugin": "^0.63.6",
+    "@vitest/coverage-istanbul": "^2.1.4",
     "babel-eslint": "^10.1.0",
     "cz-cli": "^1.0.0",
     "eslint": "^9.13.0",
     "eslint-plugin-format": "^0.1.2",
+    "happy-dom": "^15.8.3",
+    "terser": "^5.36.0",
     "typescript": "^5.6.3",
-    "vitepress": "1.4.1",
+    "vite": "^5.4.10",
+    "vitepress": "^1.4.5",
+    "vitest": "^2.1.4",
     "vue": "^3.5.12"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^3.8.0",
-    "@babel/plugin-syntax-jsx": "^7.25.9",
-    "@babel/preset-react": "^7.25.9",
-    "@babel/preset-typescript": "^7.26.0",
     "@commitlint/cli": "^19.5.0",
     "@commitlint/config-conventional": "^19.5.0",
     "@iconify-json/ic": "^1.2.1",
@@ -64,7 +66,6 @@
     "@vitejs/plugin-vue-jsx": "^4.0.1",
     "@vitest/coverage-istanbul": "2.1.2",
     "@vitest/coverage-v8": "^2.1.4",
-    "@vue/cli-plugin-babel": "^5.0.8",
     "@vue/test-utils": "2.4.6",
     "babel-eslint": "^10.1.0",
     "cz-customizable": "^7.2.1",
@@ -75,7 +76,7 @@
     "tsx": "^4.19.1",
     "unocss": "^0.63.4",
     "vite": "^5.4.9",
-    "vitepress": "^1.4.1",
+    "vitepress": "^1.4.5",
     "vitepress-theme-demoblock": "^3.0.7",
     "vitest": "2.1.2",
     "vue-tsc": "^2.1.8"
