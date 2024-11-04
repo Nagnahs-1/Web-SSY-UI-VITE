@@ -9,6 +9,9 @@
 <img src="https://img.shields.io/github/license/Nagnahs-1/Web-SSY-UI-VITE?color=red"/>
 <img src="https://img.shields.io/npm/v/ssy-ui-vite?color=red" />
 <img src="https://img.shields.io/npm/dm/ssy-ui-vite?color=red" />
+<a href="https://codecov.io/github/Nagnahs-1/Web-SSY-UI-VITE" >
+ <img src="https://codecov.io/github/Nagnahs-1/Web-SSY-UI-VITE/branch/main/graph/badge.svg?token=ZUCBAY7PC8"/>
+ </a>
 </p>
 
 ## Features
