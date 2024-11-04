@@ -52,7 +52,6 @@ createApp(App)
 
 如果希望尽快上手，可以访问[Getting Started](https://web-ssy-ui-vite.vercel.app/)
 
-
 ## 欢迎提PR
 一起加入项目
 hehehehe
